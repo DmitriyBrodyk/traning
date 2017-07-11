@@ -6,6 +6,17 @@
   	box-shadow: 16px -3px 11px 1px #808080;
   	margin: 5px;
   	line-height: 30px;
+    float: left;
+}
+.basic {
+  width: 30%;
+  font-family: sans-serif;
+    background-color: #DCDCDC;
+  padding: 5px;
+    box-shadow: 16px -3px 11px 1px #808080;
+    margin: 5px;
+    line-height: 30px;
+    float: left;
 }
 body {
 	background-color: #A9A9A9;
@@ -94,3 +105,5 @@ h1 {
 h3 {
 	font-weight: 700;
 }
+
+ 
